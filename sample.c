@@ -1,4 +1,4 @@
-void main()
+i":void main()
 {
 	poudewndd
 }
