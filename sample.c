@@ -1,3 +1,7 @@
-ivoid main()
+void main()
 {
-	printf("hello world"P)
+	p
+
+
+make sure ur not allowed to do 
+rintf("hello world"P)
